@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="about_me">About me</string>
+    <string name="my_portfolios">My portfolios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="info_me">Name: Shokirov Ollohberdi\nAge: 17 years\n Respublic: Uzbekistan\nLevel developer: Junior</string>
+</resources>
